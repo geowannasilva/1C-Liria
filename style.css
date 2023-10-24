@@ -4,5 +4,14 @@
     -- font-principal: "poppins";
     --font-secundaria: "Josefin Sans":
     --preto: #0a0a0a:
-
 }
+
+.titulo{
+     text-align: center;
+}
+
+.imagem{
+    width: 20%;
+}
+
+
